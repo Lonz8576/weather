@@ -33,6 +33,9 @@ function App() {
                 <div className='humidity'>Wind</div>
                 <i className='fa-solid fa-wind'> 16 km/h</i>
             </div>
+            <footer>
+            <WeatherApp />
+            </footer>
             </div>
 
 
@@ -44,7 +47,7 @@ function App() {
 
 
     </div>
-      <WeatherApp />
+
     </div>
   )
 }
