@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './index.css'
 
 const Forecast = () => {
   return (
@@ -17,5 +17,5 @@ const Forecast = () => {
 
 
 
-export default Forecast
+export default Forecast()
 
